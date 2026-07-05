@@ -5,10 +5,10 @@ Maintainer: you
 Installed-Size: 31419
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Filename: pool/main/l/luminadb/LuminaDB_0.1.2_amd64.deb
-Size: 11361752
-MD5sum: b34b33119d6c9a4476d480cb0cd05dfb
-SHA1: 910dbddda2e155a002b9b5565dffb21cacd39e6b
-SHA256: 44657b90f32b81cb5ffa740ef1f37375d33a42b0ed1a121e055e9bb667be79fa
+Size: 11361414
+MD5sum: 9ad3f33803f7a431a4b7dc4aecc42272
+SHA1: 1180e9a37f768c4846c7c3edb8e85f0b955074db
+SHA256: 3399b9803f44dc2845d8d1cf06f50b9217d36e2593a87e10bc5a5e6c7d0bb80a
 Priority: optional
 Description: A Tauri App
  (none)
